@@ -1,4 +1,4 @@
-### `COVID-19 Tracker Application - React JS Project (Hooks, Material UI, Charts js)`
+### `COVID-19 Tracker Application - React JS Project (Hooks, Material UI, Charts js, axios)`
 
 ### `demo link`
 http://covid-19-najeeb.surge.sh/
